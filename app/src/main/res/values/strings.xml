@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PuzzleGame</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="resetar">Resetar</string>
+    <string name="tempo">Tempo</string>
+    <string name="movimentos">Movimentos</string>
+    <string name="_00_00">00:00</string>
+    <string name="_0">0</string>
+    <string name="clique_iniciar">Clique em \'Iniciar\' para começar o jogo</string>
+</resources>
